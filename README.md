@@ -9,4 +9,4 @@ foram desenvolvidos tambem os casos de testes em Gherkin
 Evidencias dos casos de testes esta no Drive compartilhado no Google link abaixo:
 - https://drive.google.com/drive/folders/1MjiSxg8HWV6gT5_LbJaltEithAZh9G71?usp=sharing
 
-sera disponibilizado tambem um documento PDF Listando Vunerabilidades do Sistema, Bugs Encontrados, Melhorias propostas ao time de Desenvolvimento e pontos criticos a serem melhorados no sistema.
+sera disponibilizado tambem um documento PDF Listando Vulnerabilidades do Sistema, Bugs Encontrados, Melhorias propostas ao time de Desenvolvimento e pontos criticos a serem melhorados no sistema.
