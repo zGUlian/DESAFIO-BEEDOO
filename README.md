@@ -1,5 +1,5 @@
 # DESAFIO-BEEDOO
-O Desafio proposto pela Beedoo e testar uma plataforma onde e feito cadastro de cursos e listar os cursos cadastrados após testar a plataforma foi criado casos de testes
+O Desafio proposto pela Beedoo é testar uma plataforma onde e feito cadastro de cursos e listar os cursos cadastrados após testar a plataforma foi criado casos de testes
 Os casos de teste foram listados em uma planilha do Google Sheets Link abaixo:
 https://docs.google.com/spreadsheets/d/1d69Mscp5BHPxzLU79RPiYSXtxsL9_YvUycp8vuFbLGc/edit?gid=0#gid=0
 https://docs.google.com/spreadsheets/d/e/2PACX-1vRaF0BKkQCaDQB1y7nUrWWyEGVW3Wti6VwF-Po4lUW2XiG4yW_i-HuzL4re6xVzUO4Ej0JuWxi0qfch/pubhtml
